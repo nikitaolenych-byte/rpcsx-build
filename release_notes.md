@@ -28,7 +28,7 @@
 
 ## Оновлення через додаток
 Щоб оновити RPCSX через додаток, вставте це посилання в налаштування оновлень:
-https://github.com/RPCSX/rpcsx-build/releases/tag/v20260115-000000
+https://github.com/nikitaolenych-byte/rpcsx-build/releases/tag/v20260115-000000
 
 Після вставки посилання в додатку RPCSX-UI-Android розпочнеться автоматичне завантаження та встановлення оновлення.
 

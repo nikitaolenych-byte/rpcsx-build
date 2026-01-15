@@ -2,4 +2,4 @@
 
 Repository for RPCSX dev builds
 
-Latest release: https://github.com/RPCSX/rpcsx-build/releases/tag/v20260115-000000
+Latest release: https://github.com/nikitaolenych-byte/rpcsx-build/releases/tag/v20260115-000000
